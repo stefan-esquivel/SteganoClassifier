@@ -131,5 +131,5 @@ dmypy.json
 # Remove data from the repository
 
 .DS_Store
-
 data/
+.vscode/
